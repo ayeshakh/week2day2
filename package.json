@@ -17,6 +17,8 @@
     "url": "https://github.com/ayeshakh/week2day2/issues"
   },
   "homepage": "https://github.com/ayeshakh/week2day2#readme",
-  "dependencies": {},
+  "dependencies": {
+    "request": "^2.81.0"
+  },
   "devDependencies": {}
 }
